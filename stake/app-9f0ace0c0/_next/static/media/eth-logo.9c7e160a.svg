@@ -1,0 +1,20 @@
+<svg width="29" height="29" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="eth" clip-path="url(#clip0_4361_1625)">
+<g id="Group">
+<path id="Vector" d="M14.5 28.5283C22.232 28.5283 28.5 22.2603 28.5 14.5283C28.5 6.79633 22.232 0.52832 14.5 0.52832C6.76801 0.52832 0.5 6.79633 0.5 14.5283C0.5 22.2603 6.76801 28.5283 14.5 28.5283Z" fill="#627EEA"/>
+<g id="Group_2">
+<path id="Vector_2" d="M14.9355 4.02832V11.7896L21.4954 14.7208L14.9355 4.02832Z" fill="#F4F1E5"/>
+<path id="Vector_3" d="M14.9357 4.02832L8.375 14.7208L14.9357 11.7896V4.02832Z" fill="#F4F1E5"/>
+<path id="Vector_4" d="M14.9355 19.7503V25.0239L21.4998 15.9423L14.9355 19.7503Z" fill="#F4F1E5"/>
+<path id="Vector_5" d="M14.9357 25.0239V19.7494L8.375 15.9423L14.9357 25.0239Z" fill="#F4F1E5"/>
+<path id="Vector_6" d="M14.9355 18.5297L21.4954 14.7208L14.9355 11.7913V18.5297Z" fill="white" fill-opacity="0.2"/>
+<path id="Vector_7" d="M8.375 14.7208L14.9357 18.5297V11.7913L8.375 14.7208Z" fill="#F4F1E5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_4361_1625">
+<rect width="28" height="28" fill="white" transform="translate(0.5 0.52832)"/>
+</clipPath>
+</defs>
+</svg>
